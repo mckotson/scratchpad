@@ -1,2 +1,4 @@
 This is a simple test of how branches and 
 file systems work on Windows.
+
+Okay, now I'm making some changes.
